@@ -7,3 +7,9 @@ Diabetes is a rapidly growing global health concern, and early detection is key 
 The model’s performance was evaluated using key metrics such as accuracy, precision, recall, and F1-score, confirming its effectiveness in predicting diabetes. The system is integrated into a user-friendly web interface where users can input health data and receive real-time prediction results along with health suggestions.
 
 This project demonstrates the potential of AI-driven tools in preventive healthcare, empowering users with data-driven insights and encouraging proactive health management.
+
+# Live website
+https://diabetes-prediction-2-om7z.onrender.com/
+
+# Google collab
+https://colab.research.google.com/drive/18OCFGjDRjpp7TYnx-ftummKfvgTiTTuj?usp=sharing
