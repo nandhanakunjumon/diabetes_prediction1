@@ -1,5 +1,5 @@
 # diabetes_prediction1
-#Abstract
+# Abstract
 Diabetes is a rapidly growing global health concern, and early detection is key to effective management and prevention. This project, PredictWell, is a machine learning-based web application designed to predict the likelihood of diabetes in individuals based on various health parameters such as glucose level, BMI, insulin level, age, and more.
 
  A Random Forest Classifier was used to train the model due to its robustness and ability to handle complex relationships within the data. Important features like glucose levels, BMI, and age were identified as strong predictors of diabetes risk.
